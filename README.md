@@ -1,3 +1,5 @@
+# Testing the PR->HipChat integration
+
 # docker-openjdk-phrs
 This is an augmented Zalando OpenJDK Docker Image that is being used by Team
 Phrasemongers: `os-registry.stups.zalan.do/phrs/openjdk`
